@@ -48,7 +48,7 @@ I'm a Computer Science and Engineering graduate specializing in Artificial Intel
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-**PostgreSQL | MySQL | Oracle SQL Plus**
+**PostgreSQL | MySQL**
 
 ### 🔌 APIs & Java Technologies
 
