@@ -64,10 +64,10 @@ I'm a Computer Science and Engineering graduate specializing in Artificial Intel
 
 ### 🔧 Tools & Development Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,postman" />
 </p>
 
-**Eclipse | VS Code | Spring Tool Suite (STS) | Postman | Git | GitHub**
+**VS Code | Eclipse | Spring Tool Suite (STS) | Postman | Git | GitHub**
 
 ---
 
