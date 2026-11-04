@@ -83,11 +83,6 @@ A backend application implementing employee management functionality using RESTf
 
 **Technologies:** Java, Spring Boot, REST API
 
-### 3. Food Waste Intelligence
-A project focused on using technology to address food waste management challenges.
-
-**Technologies:** React.js, JavaScript
-
 
 
 ---
