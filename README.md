@@ -24,7 +24,7 @@ I'm a Computer Science and Engineering graduate specializing in Artificial Intel
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python" />
+ <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 **Java | Python**
