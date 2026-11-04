@@ -88,20 +88,7 @@ A project focused on using technology to address food waste management challenge
 
 **Technologies:** React.js, JavaScript
 
----
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koushik-Nayak&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koushik-Nayak&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Koushik-Nayak&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
@@ -116,7 +103,7 @@ A project focused on using technology to address food waste management challenge
   </a>
 </p>
 
-📧 Email: YOUR_EMAIL_ADDRESS
+📧 Email: koushiknayak62@gmail.com
 
 ---
 
