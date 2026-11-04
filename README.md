@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Koushik Y R
 
-### 💻 Aspiring Software Engineer | Java Backend Developer | AI & ML Enthusiast 🇮🇳
+### 💻 Aspiring Software Engineer | Java Backend Developer | AI & ML Enthusiast
 
 Welcome to my GitHub profile!
 
