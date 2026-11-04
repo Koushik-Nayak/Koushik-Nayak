@@ -20,32 +20,54 @@ I'm a Computer Science and Engineering graduate specializing in Artificial Intel
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Technical Skills
 
-### Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
-### Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,mysql" />
+**Java | Python**
+
+### 🌐 Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
 
-### Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+**HTML5 | CSS3 | JavaScript | React.js**
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
 </p>
 
-### AI & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+**Hibernate ORM | Spring IoC | Spring MVC | Spring Boot | Spring Data JPA | Lombok**
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-### Development Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+**PostgreSQL | MySQL | Oracle SQL Plus**
+
+### 🔌 APIs & Java Technologies
+
+**RESTful APIs | JDBC | Servlets | JSP | JPA**
+
+### 🤖 AI & LLM Technologies
+
+**LangChain | RAG | LLM | NLP | BERT**
+
+### 📚 Core Concepts
+
+**Object-Oriented Programming (OOP) | Collections | Operating Systems (OS) | Exception Handling**
+
+### 🔧 Tools & Development Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,github,postman" />
 </p>
+
+**Eclipse | VS Code | Spring Tool Suite (STS) | Postman | Git | GitHub**
 
 ---
 
