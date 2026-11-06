@@ -71,24 +71,27 @@ I'm a Computer Science and Engineering graduate specializing in Artificial Intel
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-1. Online Banking System
+### 1. Online Banking System
 
 A full-stack banking application that allows users to manage accounts, perform banking transactions, view transaction history, and apply for loans, Fixed Deposits (FD) and Recurring Deposits (RD).
 
-Technologies: Java, Spring Boot, Spring Data JPA, Hibernate, React.js, JavaScript, PostgreSQL, REST APIs
+**Technologies:** Java, Spring Boot, Spring Data JPA, Hibernate, React.js, JavaScript, PostgreSQL, REST APIs
 
-🔗 View Project on GitHub
+🔗 [View Project on GitHub](https://github.com/Koushik-Nayak/Online-Banking-System)
 
-2. Job Tracking Application
+---
+
+### 2. Job Tracking Application
 
 A web-based application designed to manage companies, job openings and job applications, with separate functionalities for administrators and job seekers.
 
-Technologies: Java, Spring MVC, Hibernate, JPA, PostgreSQL, JSP, Maven
+**Technologies:** Java, Spring MVC, Hibernate, JPA, PostgreSQL, JSP, Maven
 
-🔗 View Project on GitHub
+🔗 [View Project on GitHub](https://github.com/Koushik-Nayak/Job-Tracking-Application)
 
+---
 
 
 ---
