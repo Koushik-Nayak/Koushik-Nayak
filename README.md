@@ -71,17 +71,23 @@ I'm a Computer Science and Engineering graduate specializing in Artificial Intel
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
-### 1. Job Tracking Application
-A web-based application designed to manage companies, job openings and job applications.
+1. Online Banking System
 
-**Technologies:** Java, Spring MVC, Hibernate, JSP, MySQL
+A full-stack banking application that allows users to manage accounts, perform banking transactions, view transaction history, and apply for loans, Fixed Deposits (FD) and Recurring Deposits (RD).
 
-### 2. Employee Management REST API
-A backend application implementing employee management functionality using RESTful APIs.
+Technologies: Java, Spring Boot, Spring Data JPA, Hibernate, React.js, JavaScript, PostgreSQL, REST APIs
 
-**Technologies:** Java, Spring Boot, REST API
+🔗 View Project on GitHub
+
+2. Job Tracking Application
+
+A web-based application designed to manage companies, job openings and job applications, with separate functionalities for administrators and job seekers.
+
+Technologies: Java, Spring MVC, Hibernate, JPA, PostgreSQL, JSP, Maven
+
+🔗 View Project on GitHub
 
 
 
